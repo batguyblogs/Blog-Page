@@ -16,7 +16,7 @@ const config: QuartzConfig = {
       provider: "plausible",
     },
     locale: "en-US",
-    baseUrl: "askbatguy.carrd.co",
+    baseUrl: "batguyblogs.github.io/Blog-Page",
     ignorePatterns: ["private", "Templates", ".obsidian"],
     defaultDateType: "modified",
     theme: {
