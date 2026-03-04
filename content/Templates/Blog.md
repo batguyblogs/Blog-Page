@@ -2,5 +2,5 @@
 title:
 draft: false
 tags:
-comments: 
+comments: true
 ---
