@@ -2,13 +2,14 @@
 title:
 draft: false
 tags:
+comments: "False"
 ---
 hello there nothing much to see
 
 note for tomorow, 
 - [x] make an alias to sync blogs globally using blogsync 
 
-- [ ] look at editing the layout of the webpage
+- [x] look at editing the layout of the webpage
 
 - [ ] figure out how to add the comments tab? 
 
