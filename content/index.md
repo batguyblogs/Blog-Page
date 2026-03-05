@@ -18,3 +18,5 @@ lets wait for quartz5 patiently
 
 meanwhile take a look at #blog  and #Project 
 
+And if you're looking for my notes then take a look at [Notes](https://batguyblogs.github.io/Notes-host/)
+
