@@ -29,10 +29,14 @@ What I’m Currently Into - a rotating list of interests, games, and obsessions:
 
 That’s Me ( for now) this will probably double every time you come back :D maybe ill start making cheese or smtn…
 
+### Wait i love music !!!!
+go look at what im listening to ➡ [[listen with me]]
+
 
 </br>
 
 </br>
 
 pssst.... you, </br>
+
 yeah you go click on Business Card at the bottom ⬇ 
