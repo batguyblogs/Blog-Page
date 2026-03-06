@@ -58,6 +58,7 @@ export const defaultContentPageLayout: PageLayout = {
   ],
   right: [
     Component.Graph(),
+    Component.Spotify(),
     Component.DesktopOnly(Component.TableOfContents()),
     Component.Backlinks(),
   ],
