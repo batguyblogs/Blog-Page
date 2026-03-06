@@ -6,6 +6,7 @@ export const sharedPageComponents: SharedLayout = {
   head: Component.Head(),
   header: [],
   afterBody: [
+    Component.MobileOnly(Component.Spotify()),
     Component.Comments({
       provider: 'giscus',
       options: {
@@ -58,7 +59,7 @@ export const defaultContentPageLayout: PageLayout = {
   ],
   right: [
     Component.Graph(),
-    Component.Spotify(),
+    Component.DesktopOnly(Component.Spotify()),
     Component.DesktopOnly(Component.TableOfContents()),
     Component.Backlinks(),
   ],
