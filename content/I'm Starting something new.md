@@ -6,7 +6,7 @@ tags:
   - you_should_read_this
 comments: true
 ---
-`Okay, so forgetting about the fact that I have [[DUM-ER MARK I]] upgrades still pending, I realized that I live in this beautiful day and age where you can truly make whatever you dream of.
+Okay, so forgetting about the fact that I have [[DUM-ER MARK I]] upgrades still pending, I realized that I live in this beautiful day and age where you can truly make whatever you dream of.
 
 Let me introduce you to my Hyper fixation:
 
