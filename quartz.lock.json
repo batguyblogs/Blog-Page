@@ -199,6 +199,12 @@
       "commit": "a1c1fe0a9c6a5ce1acf6efa01d473a7d9850e2a3",
       "installedAt": "2026-06-29T06:58:40.356Z"
     },
+    "quartz-spotify": {
+      "source": "github:batguyblogs/quartz-spotify",
+      "resolved": "https://github.com/batguyblogs/quartz-spotify.git",
+      "commit": "220db373c55a1ca63d6dd65a667375571180beab",
+      "installedAt": "2026-06-30T05:50:22.500Z"
+    },
     "quartz-themes": {
       "source": {
         "name": "quartz-themes",

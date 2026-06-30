@@ -29,7 +29,7 @@ configuration:
         secondary: "#d97366"
         tertiary: "#a6517d"
         highlight: rgba(114, 173, 159, 0.2)
-        textHighlight: "#fff23688"
+        textHighlight: "#72ad9f33"
       darkMode:
         light: "#40406f"
         lightgray: "#999b1b"
@@ -39,7 +39,7 @@ configuration:
         secondary: "#ffbdae"
         tertiary: "#cd6ea1"
         highlight: rgba(114, 173, 159, 0.2)
-        textHighlight: "#b3aa0288"
+        textHighlight: "#72ad9f33"
 plugins:
   - source: github:quartz-community/created-modified-date
     enabled: true
@@ -109,7 +109,7 @@ plugins:
     enabled: false
     order: 92
   - source: github:quartz-community/fonts
-    enabled: true
+    enabled: false
   - source: github:quartz-community/remove-draft
     enabled: true
   - source: github:quartz-community/explicit-publish
@@ -162,6 +162,11 @@ plugins:
     layout:
       position: right
       priority: 10
+  - source: github:batguyblogs/quartz-spotify
+    enabled: true
+    layout:
+      position: right
+      priority: 20
   - source: github:quartz-community/search
     enabled: true
     layout:
@@ -225,8 +230,8 @@ plugins:
     enabled: true
     options:
       links:
-        GitHub: https://github.com/jackyzha0/quartz
-        Discord Community: https://discord.gg/cRFFHYye7t
+        Business Card: https://askbatguy.carrd.co/
+        Shitpost long form :D: https://www.youtube.com/@Batguyblogs
   - source: github:quartz-community/recent-notes
     enabled: false
   - source: github:quartz-community/spacer
