@@ -202,8 +202,8 @@
     "quartz-spotify": {
       "source": "github:batguyblogs/quartz-spotify",
       "resolved": "https://github.com/batguyblogs/quartz-spotify.git",
-      "commit": "220db373c55a1ca63d6dd65a667375571180beab",
-      "installedAt": "2026-06-30T05:50:22.500Z"
+      "commit": "616ed40f078dba7c54594bdb59ff65f3fc976abe",
+      "installedAt": "2026-07-11T09:23:56.062Z"
     },
     "quartz-themes": {
       "source": {

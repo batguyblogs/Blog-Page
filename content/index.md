@@ -7,11 +7,16 @@ comments: false
 
 ***This is what I'm normally up to*** and why i take forever to respond to your messages
 
-## [[About ME !]]
+## [[About ME !]] 
+( ⬆ awfully clickable )
 
-
-```placeholder
-
+## Recent Notes :3 
+%%dataview
+TABLE WITHOUT ID file.link AS "Note", file.ctime AS "Created"
+FROM ""
+SORT file.ctime DESC
+LIMIT 3%%
+```
 Soon there will be a database here showing my Blog Posts in chronological order
 lets wait for quartz5 patiently
 ```
