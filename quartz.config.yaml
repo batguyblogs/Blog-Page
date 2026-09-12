@@ -162,11 +162,6 @@ plugins:
     layout:
       position: right
       priority: 10
-  - source: github:batguyblogs/quartz-spotify
-    enabled: true
-    layout:
-      position: right
-      priority: 20
   - source: github:quartz-community/search
     enabled: true
     layout:
@@ -263,13 +258,6 @@ plugins:
       position: beforeBody
       priority: 15
       display: all
-  - source:
-      name: quartz-themes
-      repo: github:saberzero1/quartz-themes
-      subdir: plugin
-    enabled: false
-    options:
-      theme: default
   - source: github:quartz-community/obsidian-plugin-excalidraw
     enabled: true
     options:
@@ -281,6 +269,14 @@ plugins:
     enabled: true
     options: {}
     order: 50
+  - source: github:batguyblogs/quartz-spotify
+    enabled: true
+    options:
+      endpoint: https://spotifylive-kappa.vercel.app/
+      refreshInterval: 30000
+    layout:
+      position: right
+      priority: 40
 layout:
   groups:
     toolbar:
